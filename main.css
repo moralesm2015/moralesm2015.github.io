@@ -23,8 +23,7 @@ h1 {
 /** HEADER **/
 
 p {
-  font-family: 'Times New Roman', regular;
-
-  text-align: center; 
+  font-family: 'Times New Roman';
+  font-size: 150%;
 }
 
