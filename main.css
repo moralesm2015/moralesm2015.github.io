@@ -2,7 +2,7 @@
 body {
   font-family: 'Times New Roman', regular; 
   background-color: #0959d9;
-  font-size: 100%;
+  font-size: 140%;
     /** #051a4a; **/
 }
 
@@ -18,27 +18,26 @@ h1 {
   color: #edb313;
 }
 
-/** HEADER **/
 
 p {
   font-family: 'Times New Roman';
-  font-size: 100%;
+  font-size: 140%;
   color: #d9ba09;
 }
 
 ul {
   font-family: 'Times New Roman';
-  font-size: 100%;
+  font-size: 140%;
   color: #d9ba09;
 }
 
 li {
   font-family: 'Times New Roman';
-  font-size: 100%;
+  font-size: 140%;
   color: #d9ba09;
 }
 
 a {
-  font-size: 100%;
+  font-size: 200%;
   color: #d95909;
 }
