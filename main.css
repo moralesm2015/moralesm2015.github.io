@@ -1,0 +1,30 @@
+
+body {
+  font-family: 'Times New Roman', regular; 
+  background-color: #051a4a;
+}
+
+#wrapper {
+   max-width: 940px;
+   margin: 0 auto;
+   padding: 0 5%;
+
+ }
+
+img {
+  max-width: 100%;
+}
+
+h1 {
+  margin: 0 0 1em 0;
+  color: #edb313;
+}
+
+/** HEADER **/
+
+p {
+  font-family: 'Times New Roman', regular;
+  line-height: 0.5;
+  text-align: center;
+}
+
